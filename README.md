@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Cross. I mainly use GitHub's private repository for my Linux dotfiles, as well as various projects I work on. Thanks for looking!
+
 <!--
 **notcross/notcross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
