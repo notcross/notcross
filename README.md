@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<p align=center>
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+  
+</p>
+
 I'm Cross. I mainly use GitHub's private repositories for my Linux dotfiles, as well as various projects I work on. Thanks for looking!
 
 <!--
